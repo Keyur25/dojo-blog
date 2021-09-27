@@ -7,6 +7,8 @@ This is a program that allows users to add, list and view blogs. It was made by 
 ## Screenshots
 
 ![Screenshot 1](/screenshots/Screenshot1.png?raw=true)
+![Screenshot 2](/screenshots/Screenshot2.png?raw=true)
+![Screenshot 2](/screenshots/Screenshot3.png?raw=true)
 
 ## Credits
 
