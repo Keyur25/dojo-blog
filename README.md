@@ -2,7 +2,7 @@
 
 ## About
 
-This is a program that allows users...
+This is a program that allows users to add, list and view blogs. It was made by following a tutorial, linked in the credits section, with the aim of improving my React and JavaScript skills.
 
 ## Screenshots
 
